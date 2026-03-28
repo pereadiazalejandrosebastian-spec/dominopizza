@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db = "dominos";
+$host = "mysql-alejandroapi.alwaysdata.net";
+$user = "alejandroapi";
+$pass = "clase1234";
+$db = "alejandroapi_dominos";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
